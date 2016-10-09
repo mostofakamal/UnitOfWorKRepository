@@ -1,0 +1,4 @@
+-- Implementation of Unit of Work and Repository Pattern with Entity Framework
+-- Unit tests using Mocking 
+-- Moq has been used as mocking tool
+-- NUnit has been used for Testing Framework
